@@ -3,10 +3,10 @@
 - My goal was to create a model which will predict the price for any house.
 
 ## Repository contents
-**1. data:** folder which contains the dataset used, i.e., *data.csv*.
-**2. final_model.joblib:** this is the model build to predict house price.
-**3. main.ipynb:** this is the Jupyter notebook file that contains the code behind the model.
-**4. model_deployment.ipynb:** this is the Jupyter notebook file that contains the code used to use the model.
+- **1. data:** folder which contains the dataset used, i.e., *data.csv*.
+- **2. final_model.joblib:** this is the model build to predict house price.
+- **3. main.ipynb:** this is the Jupyter notebook file that contains the code behind the model.
+- **4. model_deployment.ipynb:** this is the Jupyter notebook file that contains the code used to use the model.
 
 ## Dataset Information
 | Column  | Description                                                           |
