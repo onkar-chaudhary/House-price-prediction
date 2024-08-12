@@ -1,5 +1,5 @@
 # House-price-prediction
-This projects analyses a dataset containing information about houses and predicts thier price.
+This projects analyses a dataset containing information about houses and predicts their price.
 
 ## Dataset Information
 | Column  | Description                                                           |
